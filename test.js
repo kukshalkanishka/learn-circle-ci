@@ -1,5 +1,5 @@
 const assert = require('assert');
-const add = require('../util').add;
+const add = require('./util').add;
 
 describe('Unit', function() {
   it('should check if 1 is equal is true', function() {
